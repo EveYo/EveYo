@@ -1,16 +1,17 @@
-### Hi there! my name is Evangeline or Eve. I'm a 3rd year student in UBC.
 
-<!--
-**EveYo/EveYo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<table>
+<caption>Evangeline Yo</caption>
+<thead>
+<tr>
+<th colspan="2">Quick Info</th>
+</tr>
+</thead>
+<tbody>
+<tr><th scope='row'>Name</th><td>Evangeline Yo</td></tr>
+<tr><th scope='row'>Born</th><td><time datetime="2004-02-10 8:00">10 Feburary, 2004</time></td></tr>
+<tr><th scope='row'>Education</th><td>University of British Columbia</td></tr>
+<tr><th scope='row'>Nationality</th><td>Taiwanese</td></tr>
+<tr><th scope='row'>Occupation</th><td>Still discovering ^^</td></tr>
+<tr><th scope='row'>Skills</th><td>C, C++, Java, HTML, CSS</td></tr>
+</tbody>
+</table>
