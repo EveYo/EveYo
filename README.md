@@ -1,4 +1,4 @@
-### Hi there! my name is Evangeline or Eve.
+### Hi there! my name is Evangeline or Eve. I'm a 3rd year student in UBC.
 
 <!--
 **EveYo/EveYo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
