@@ -12,7 +12,8 @@
 <tr><th scope='row'>Education</th><td>University of British Columbia</td></tr>
 <tr><th scope='row'>Nationality</th><td>Taiwanese</td></tr>
 <tr><th scope='row'>Occupation</th><td>Still discovering</td></tr>
-<tr><th scope='row'>Skills</th><td>C, C++, Java, HTML, CSS</td></tr>
+<tr><th scope='row'>Languages</th><td>C, C++, Java, Python, HTML+CSS, JavaScript</td></tr>
+<!-- <tr><th scope='row'>Tools</th><td>Matplotlib</td></tr> -->
 </tbody>
 </table>
 
