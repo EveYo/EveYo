@@ -17,7 +17,6 @@
 </tbody>
 </table>
 
-- 🌱 I’m currently learning JavaScript and Python
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EveYo)](https://github.com/anuraghazra/github-readme-stats)
 
